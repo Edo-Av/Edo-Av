@@ -3,8 +3,7 @@
 📊 Data Analyst/Analytics Consultant
 
 👋 Hi, I’m Edo! I am an experienced specialist Business Intelligence & Data Analytics consultant with a proven track record within
-the education, transport, financial services, and banking industries, turning complex data into actionable intelligence 💡.
-I use this space for learning, development and open projects in a growing number of languages and technologies.
+the education, transport, financial services, and banking industries. I use this space for learning, development and open projects in a growing number of languages and technologies.
 
 
 ### 🧰 Tools:
