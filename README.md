@@ -23,7 +23,7 @@ Some of my work (click on the images to view on my Tableau Public profile!):
 
 - ### Hotel Bookings KPIs - Figma
 
-<img src="https://public.tableau.com/static/images/Ho/HotelBookingsAnalysis_17062193474720/Overview/4_3.png" width="500">  
+[<img src="https://public.tableau.com/static/images/Ho/HotelBookingsAnalysis_17062193474720/Overview/4_3.png" width="500">](https://public.tableau.com/app/profile/edoardo.aversa/viz/HotelBookingsAnalysis_17062193474720/Overview)  
 
  <br />
  
