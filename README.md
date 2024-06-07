@@ -23,13 +23,15 @@ Some of my work (click on the images to view on my Tableau Public profile!):
 
 - ### Hotel Bookings KPIs - Figma
 
-[![Hotel Bookings KPIs - Figma](https://public.tableau.com/static/images/Ho/HotelBookingsAnalysis_17062193474720/Overview/4_3.png "Hotel Bookings KPIs - Figma")](https://public.tableau.com/app/profile/edoardo.aversa/viz/HotelBookingsAnalysis_17062193474720/Overview)
+<img src="https://public.tableau.com/static/images/Ho/HotelBookingsAnalysis_17062193474720/Overview/4_3.png" width="500">  
 
  <br />
  
 - ### KPI Dashboard Template
+[<img src="https://public.tableau.com/static/images/KP/KPIDashboardTemplate_16674927517570/KPIOverview/4_3.png" width="500">](https://public.tableau.com/app/profile/edoardo.aversa/viz/KPIDashboardTemplate_16674927517570/KPIOverview)
 
-[![KPI Dashboard Template](https://public.tableau.com/static/images/KP/KPIDashboardTemplate_16674927517570/KPIOverview/4_3.png)](https://public.tableau.com/app/profile/edoardo.aversa/viz/KPIDashboardTemplate_16674927517570/KPIOverview)
+
+
 
 
 
