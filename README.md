@@ -32,7 +32,7 @@ Some of my work (click on the images to view on my Tableau Public profile!):
 
  <br />
 
-# Preppin-Data
+- ## Preppin-Data
 
 | Challenge | Solution |
 |-----------|----------|
