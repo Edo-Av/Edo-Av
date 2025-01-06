@@ -33,6 +33,7 @@ Some of my work (click on the images to view on my Tableau Public profile!):
  <br />
 
 - ## Preppin-Data
+(Challenges solved in SQL)
 
 | Challenge | SQL Solution |
 |-----------|----------|
