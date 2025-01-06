@@ -44,6 +44,8 @@ Some of my work (click on the images to view on my Tableau Public profile!):
 | [2023: Week 4](https://preppindata.blogspot.com/2023/01/2023-week-4-new-customers.html) | [New Customers](https://github.com/Edo-Av/Preppin-Data/blob/main/2023%3A%20Week%204%20%7C%20New%20Customers.sql) |
 
 
+- ## The SQL Murder Mystery
+  [The SQL Murder Mystery](https://github.com/Edo-Av/The-SQL-Murder-Mystery/blob/main/The%20SQL%20Murder%20Mystery%20%7C%20Query.sql)
 
 
 
