@@ -8,6 +8,7 @@ the education, transport, financial services, and banking industries. I use this
 
 ### 🧰 Tools:
 - Tableau
+- Tableau Prep
 - Alteryx
 - Power BI
 - SQL
